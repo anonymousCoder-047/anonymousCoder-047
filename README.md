@@ -43,8 +43,7 @@ When I'm not writing code, I'm exploring new technologies, refining my design ae
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymousCoder-047&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousCoder-047&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=anonymousCoder-047&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
