@@ -12,7 +12,7 @@ When I'm not writing code, I'm exploring new technologies, refining my design ae
 - 🔭 I’m currently working on pushing the boundaries of web animation and interactive UI.
 - 🌱 I’m currently learning deeper concepts in system architecture and cloud deployments.
 - 💡 I love collaborating on open-source projects and creative coding experiments.
-- 📫 How to reach me: [Link your email/contact form here]
+- 📫 How to reach me: [anonymouscoder047@gmail.com]
 - ⚡ Fun fact: I believe code is just another form of art.
 
 ---
@@ -50,7 +50,7 @@ When I'm not writing code, I'm exploring new technologies, refining my design ae
 ---
 
 ### 🌐 Connect With Me
-[Portfolio](https://anonymouscoder-047.github.io/me-portfolio) • [LinkedIn]([#](https://www.linkedin.com/in/arsalan-sunehri/)) • [Website](https://arsalan.theateam.digital)
+[Portfolio](https://portfolio.theateam.digital) • [LinkedIn](https://www.linkedin.com/in/arsalan-sunehri/) • [Website](https://arsalan.theateam.digital)
 
 <br/>
 
